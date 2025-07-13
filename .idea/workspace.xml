@@ -5,9 +5,184 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77358e6d-b1ef-4510-89e9-be34a29d221f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/src/app/login/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/build/chunks/[root-of-the-server]__8d1c356d._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/build/chunks/postcss_config_js_transform_ts_c2e3f562._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/cache/webpack/client-development-fallback/0.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/cache/webpack/client-development-fallback/index.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/cache/webpack/client-development/0.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/cache/webpack/client-development/1.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/cache/webpack/client-development/index.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/cache/webpack/client-development/index.pack.gz.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/cache/webpack/server-development/0.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/cache/webpack/server-development/1.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/cache/webpack/server-development/index.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/cache/webpack/server-development/index.pack.gz.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/react-loadable-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/app/_not-found/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/app/_not-found/page/app-paths-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/app/_not-found/page/next-font-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/app/_not-found/page_client-reference-manifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/app/login/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/app/login/page/app-build-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/app/login/page/app-paths-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/app/login/page/build-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/app/login/page/react-loadable-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/app/login/page/server-reference-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/app/login/page_client-reference-manifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/[root-of-the-server]__0e4e3eb8._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/[root-of-the-server]__0e4e3eb8._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/[root-of-the-server]__86e7898f._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/[root-of-the-server]__86e7898f._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/[root-of-the-server]__88b789b3._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/[root-of-the-server]__88b789b3._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/[root-of-the-server]__c75c51b7._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/[root-of-the-server]__c75c51b7._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/[turbopack]_browser_dev_hmr-client_hmr-client_ts_59fa4ecd._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/[turbopack]_browser_dev_hmr-client_hmr-client_ts_59fa4ecd._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/[turbopack]_browser_dev_hmr-client_hmr-client_ts_5a86a7a2._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/[turbopack]_browser_dev_hmr-client_hmr-client_ts_5a86a7a2._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/[turbopack]_browser_dev_hmr-client_hmr-client_ts_a737b69d._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/[turbopack]_browser_dev_hmr-client_hmr-client_ts_a737b69d._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/[turbopack]_browser_dev_hmr-client_hmr-client_ts_c5cb4b5a._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/[turbopack]_browser_dev_hmr-client_hmr-client_ts_c5cb4b5a._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/_5f904819._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/_5f904819._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/_9f86be57._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/_9f86be57._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/node_modules_15998627._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/node_modules_15998627._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/node_modules_626f2047._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/node_modules_626f2047._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/node_modules_ad3e0e0e._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/node_modules_ad3e0e0e._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/node_modules_bf671b14._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/node_modules_bf671b14._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/node_modules_f6379111._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/node_modules_f6379111._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/node_modules_next_9babd674._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/node_modules_next_9babd674._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/node_modules_next_addaab28._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/node_modules_next_addaab28._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/node_modules_tailwind-merge_dist_bundle-mjs_mjs_6c53872a._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/node_modules_tailwind-merge_dist_bundle-mjs_mjs_6c53872a._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/node_modules_zod_v4_c7790e6a._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/node_modules_zod_v4_c7790e6a._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/middleware-react-loadable-manifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/pages/_app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/pages/_app.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/pages/_app/build-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/pages/_app/next-font-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/pages/_app/pages-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/pages/_app/react-loadable-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/pages/_document.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/pages/_document.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/pages/_document/next-font-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/pages/_document/pages-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/pages/_document/react-loadable-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/pages/_error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/pages/_error.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/pages/_error/build-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/pages/_error/next-font-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/pages/_error/pages-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/pages/_error/react-loadable-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/[root-of-the-server]__49fd8634._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/[root-of-the-server]__49fd8634._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/[root-of-the-server]__8df7605f._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/[root-of-the-server]__8df7605f._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/[root-of-the-server]__923cb372._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/[root-of-the-server]__923cb372._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/[root-of-the-server]__e2c08166._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/[root-of-the-server]__e2c08166._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/fallback/_app-pages-browser_node_modules_next_dist_client_dev_noop-turbopack-hmr_js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/fallback/_pages-dir-browser_node_modules_next_dist_pages__app_js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/fallback/_pages-dir-browser_node_modules_next_dist_pages__error_js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/fallback/amp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/fallback/main-app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/fallback/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/fallback/pages/_app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/fallback/pages/_error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/fallback/react-refresh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/fallback/webpack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/node_modules_85b14943._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/node_modules_85b14943._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/node_modules_a51498a5._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/node_modules_a51498a5._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/node_modules_c1ca97a1._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/node_modules_c1ca97a1._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/node_modules_d3eea0f3._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/node_modules_d3eea0f3._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/node_modules_react-dom_82bb97c6._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/node_modules_react-dom_82bb97c6._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/pages/_app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/pages/_error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/pages__app_5771e187._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/pages__app_9114105e._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/pages__app_9114105e._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/pages__error_5771e187._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/pages__error_ec6747c0._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/pages__error_ec6747c0._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/polyfills.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/src_a7521e8a._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/src_a7521e8a._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/src_d6feb60e._.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/src_d6feb60e._.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/types/cache-life.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/types/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/components.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/src/components/ui/button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/src/components/ui/card.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/src/components/ui/checkbox.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/src/components/ui/form.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/src/components/ui/input.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/src/components/ui/label.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/src/lib/utils.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/app-build-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/app-build-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/build-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/build-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/build/chunks/[root-of-the-server]__04d7a048._.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/build/chunks/[root-of-the-server]__23dcc81a._.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/build/chunks/[root-of-the-server]__04d7a048._.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/build/chunks/[root-of-the-server]__23dcc81a._.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/build/chunks/[root-of-the-server]__05f88b00._.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/build/chunks/[root-of-the-server]__8d1c356d._.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/build/chunks/[root-of-the-server]__05f88b00._.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/build/chunks/postcss_config_mjs_transform_ts_f0ffbaad._.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/build/chunks/postcss_config_mjs_transform_ts_f0ffbaad._.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/build/chunks/postcss_config_js_transform_ts_c2e3f562._.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/fallback-build-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/fallback-build-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/app-paths-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/app-paths-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/app/page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/app/page.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/app/_not-found/page.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/app/page/app-build-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/app/_not-found/page/app-build-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/app/page/app-paths-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/app/page/build-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/app/_not-found/page/build-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/app/page/next-font-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/app/login/page/next-font-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/app/page/react-loadable-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/app/_not-found/page/react-loadable-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/app/page/server-reference-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/app/_not-found/page/server-reference-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/app/page_client-reference-manifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/[externals]_next_dist_compiled_next-server_app-page-turbo_runtime_dev_30fa57d5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/[externals]_next_dist_compiled_next-server_app-page-turbo_runtime_dev_30fa57d5.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/app/login/page.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/_dfbfff75._.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/_dfbfff75._.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/node_modules_92f8238e._.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/node_modules_92f8238e._.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/node_modules_next_b1ccfa0f._.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/chunks/ssr/node_modules_next_b1ccfa0f._.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/middleware-build-manifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/middleware-build-manifest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/next-font-manifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/next-font-manifest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/next-font-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/next-font-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/pages-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/server/pages-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/[root-of-the-server]__8ebb6d4b._.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/[root-of-the-server]__8ebb6d4b._.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/[root-of-the-server]__8ebb6d4b._.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/[root-of-the-server]__8ebb6d4b._.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/node_modules_next_dist_ea69acce._.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/node_modules_next_dist_ea69acce._.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/src_app_globals_css_f9ee138c._.single.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/src_app_globals_css_f9ee138c._.single.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/src_app_globals_css_f9ee138c._.single.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/src_app_globals_css_f9ee138c._.single.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/src_app_page_tsx_cf4a38cf._.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/static/chunks/src_app_login_page_tsx_cf4a38cf._.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/trace" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/trace" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/transform.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/.next/transform.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/postcss.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/postcss.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/src/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/src/app/login/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/src/app/login/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/habit-tracker-frontend/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/habit-tracker-frontend/tailwind.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +194,7 @@
       <list>
         <option value="Dockerfile" />
         <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -61,7 +237,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "configurable.tailwindcss",
     "ts.external.directory.path": "C:\\Users\\Melon\\IdeaProjects\\habitude\\frontend\\habit-tracker-frontend\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -84,7 +260,8 @@
       <workItem from="1752033057088" duration="629000" />
       <workItem from="1752033723324" duration="2011000" />
       <workItem from="1752201593997" duration="2123000" />
-      <workItem from="1752290028488" duration="2263000" />
+      <workItem from="1752290028488" duration="3143000" />
+      <workItem from="1752369386476" duration="9453000" />
     </task>
     <task id="LOCAL-00001" summary="yo">
       <option name="closed" value="true" />
