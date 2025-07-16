@@ -62,12 +62,8 @@
   :root, :host {
     --font-sans: var(--font-geist-sans);
     --font-mono: var(--font-geist-mono);
-    --color-amber-50: oklch(98.7% .022 95.277);
-    --color-green-100: oklch(96.2% .044 156.743);
-    --color-sky-700: oklch(50% .134 242.749);
     --color-blue-50: oklch(97% .014 254.604);
     --color-blue-100: oklch(93.2% .032 255.585);
-    --color-fuchsia-50: oklch(97.7% .017 320.058);
     --color-gray-300: oklch(87.2% .01 258.338);
     --color-black: #000;
     --color-white: #fff;
@@ -617,10 +613,6 @@
     background-color: var(--foreground);
   }
 
-  .bg-green-100 {
-    background-color: var(--color-green-100);
-  }
-
   .bg-muted-foreground {
     background-color: var(--muted-foreground);
   }
@@ -966,12 +958,6 @@
   }
 
   @media (hover: hover) {
-    .hover\:bg-amber-50:hover {
-      background-color: var(--color-amber-50);
-    }
-  }
-
-  @media (hover: hover) {
     .hover\:bg-blue-50:hover {
       background-color: var(--color-blue-50);
     }
@@ -996,12 +982,6 @@
   }
 
   @media (hover: hover) {
-    .hover\:bg-fuchsia-50:hover {
-      background-color: var(--color-fuchsia-50);
-    }
-  }
-
-  @media (hover: hover) {
     .hover\:bg-primary\/90:hover {
       background-color: var(--primary);
     }
@@ -1022,12 +1002,6 @@
       .hover\:bg-secondary\/80:hover {
         background-color: color-mix(in oklab, var(--secondary) 80%, transparent);
       }
-    }
-  }
-
-  @media (hover: hover) {
-    .hover\:bg-sky-700:hover {
-      background-color: var(--color-sky-700);
     }
   }
 
